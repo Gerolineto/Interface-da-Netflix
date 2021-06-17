@@ -10,4 +10,4 @@ Recriar a interface da Netflix utilizando conceitos básicos em HTML5, CSS e Jav
 
 
 
-<img src = "img/giphy.GIF">
+<img src = "demonstration/giphy.GIF">
