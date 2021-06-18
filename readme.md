@@ -9,8 +9,8 @@ Esse projeto foi executado seguindo orientações do instrutor Felipe Aguiar dis
 Recriar a interface da Netflix utilizando conceitos básicos em HTML5, CSS e JavaScript.
 
 
-<span style="display:block;text-align:center">
+<p align="center">
 
   ![interface](https://github.com/Gerolineto/Interface-da-Netflix/blob/master/demonstration/giphy.gif)
 
-</span>
+</p>
