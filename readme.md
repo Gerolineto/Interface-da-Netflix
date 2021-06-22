@@ -16,4 +16,4 @@ Recriar a interface da Netflix utilizando conceitos básicos em HTML5, CSS e Jav
 </p>
 
 
-### teste aqui : https://gerolineto.github.io/Interface-da-Netflix/
+### teste aqui: https://gerolineto.github.io/Interface-da-Netflix/
